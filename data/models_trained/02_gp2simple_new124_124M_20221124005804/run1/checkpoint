@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/Colab Notebooks/CSCI 544 Final Model/data/model_trained/02_gp2simple_new124_124M_20221124005804/run1/model-600"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Colab Notebooks/CSCI 544 Final Model/data/model_trained/02_gp2simple_new124_124M_20221124005804/run1/model-600"
